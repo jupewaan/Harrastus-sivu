@@ -1,0 +1,146 @@
+body{
+    font-size: 20px/2;
+    font-family: arial, sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover; 
+    background-color: black;
+    background-image: url("spining\ banana.gif");
+}  
+#box1{
+    border: 5px solid;
+    width: 430px;
+    height: 50px;
+    font-size: 10px;    
+    background: rgba(128, 128, 128, 0.486);
+    margin-left: 680px;
+    border-color: grey;
+    font-style: oblique;
+    
+}
+#box2{
+    border: 5px solid;
+    width: 400px;
+    height: 150px;
+    font-size: 20px;
+    background: rgba(128, 128, 128, 0.486);    
+    border-color: grey;
+    margin-top: 5px;
+    margin-bottom: 50px;
+    margin-left: 695px;
+    font-style: oblique;
+}
+#box3{
+    border: 5px solid;
+    width: 250px;
+    height: 70px;
+    font-size: 20px;
+    background: rgba(128, 128, 128, 0.486);    
+    border-color: grey;
+    margin-top: -250px;
+    margin-bottom: 5px;
+    margin-left: -5px;
+    font-style: oblique;
+}
+#box4{
+    border: 5px solid;
+    width: 280px;
+    height: 100px;
+    font-size: 20px;
+    background: rgba(128, 128, 128, 0.486);    
+    border-color: grey;
+    margin-top: -1px;
+    margin-bottom: 50px;
+    margin-left: -5px;
+    font-style: oblique;
+}
+#box5{
+    border: 5px solid;
+    width: 250px;
+    height: 70px;
+    font-size: 20px;
+    background: rgba(128, 128, 128, 0.486);    
+    border-color: grey;
+    margin-top: -35px;
+    margin-bottom: 60px;
+    margin-left: -5px;
+    font-style: oblique;
+}
+#box6{
+    border: 5px solid;
+    width: 280px;
+    height: 100px;
+    font-size: 20px;
+    background: rgba(128, 128, 128, 0.486);    
+    border-color: grey;
+    margin-top: -55px;
+    margin-bottom: 200px;
+    margin-left: -5px;
+    font-style: oblique;
+}
+#box7{
+    border: 5px solid;
+    width: 250px;
+    height: 70px;
+    font-size: 20px;
+    background: rgba(128, 128, 128, 0.486);    
+    border-color: grey;
+    margin-top: 30px;
+    margin-bottom: 5px;
+    margin-left: -5px;
+    font-style: oblique;
+}
+#box8{
+    border: 5px solid;
+    width: 280px;
+    height: 60px;
+    font-size: 20px;
+    background: rgba(128, 128, 128, 0.486);    
+    border-color: grey;
+    margin-top: -1px;
+    margin-bottom: 50px;
+    margin-left: -5px;
+    font-style: oblique;
+}
+#box9{
+    border: 5px solid;
+    width: 250px;
+    height: 70px;
+    font-size: 20px;
+    background: rgba(128, 128, 128, 0.486);    
+    border-color: grey;
+    margin-top: -25px;
+    margin-bottom: 100px;
+    margin-left: -5px;
+    font-style: oblique;
+}
+#box10{
+    border: 5px solid;
+    width: 250px;
+    height: 110px;
+    font-size: 20px;
+    background: rgba(128, 128, 128, 0.486);    
+    border-color: grey;
+    margin-top: -95px;
+    margin-bottom: 100px;
+    margin-left: -5px;
+    font-style: oblique;
+}
+#box11{
+    border: 5px solid;
+    width: 80px;
+    height: 30px;
+    font-size: 20px;
+    background: rgba(128, 128, 128, 0.486);    
+    border-color: grey;
+    margin-top: -940px;
+    margin-bottom: 100px;
+    margin-left: 1720px;
+    font-style: oblique;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+
